@@ -1,9 +1,4 @@
- * File: 101-natural.c
-	 * Auth: vincent kip
-	 */
-
-
-	#include <stdio.h>
+#include <stdio.h>
 
 
 	/**
@@ -29,5 +24,4 @@
 
 		return (0);
 	}
-
 
